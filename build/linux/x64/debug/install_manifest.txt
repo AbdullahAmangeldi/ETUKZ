@@ -1,0 +1,13 @@
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/SourceSansPro-Italic.ttf
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/SourceSansPro-Regular.ttf
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hamza/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

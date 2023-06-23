@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">384473683603-9505q2i0hh0ph24pi57n2fdodpgb2m26.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">384473683603</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFO9wfe77cAqw0PIJ5ZFuOkR86mRjSNjM</string>
+    <string name="google_app_id" translatable="false">1:384473683603:android:a02cb7050604cb9cb5df66</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFO9wfe77cAqw0PIJ5ZFuOkR86mRjSNjM</string>
+    <string name="google_storage_bucket" translatable="false">etu-kz.appspot.com</string>
+    <string name="project_id" translatable="false">etu-kz</string>
+</resources>

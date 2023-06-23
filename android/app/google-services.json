@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384473683603",
+    "project_id": "etu-kz",
+    "storage_bucket": "etu-kz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384473683603:android:a02cb7050604cb9cb5df66",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384473683603-9505q2i0hh0ph24pi57n2fdodpgb2m26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFO9wfe77cAqw0PIJ5ZFuOkR86mRjSNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384473683603-9505q2i0hh0ph24pi57n2fdodpgb2m26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
